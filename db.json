@@ -37,5 +37,14 @@
       "email":"sumit@gmail.com",
       "password":"123"
     }
+  ],"forum":[
+    {
+      "id":1,
+      "username":"sumit",
+      "title":"java",
+      "description":"what is java",
+      "language":"java",
+      "date":"18-07-1999"
+    }
   ]
 }

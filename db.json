@@ -49,6 +49,16 @@
         "category": "Sports",
         "price": 123,
         "id": 5
+      },
+      {
+        "poster": "https://tse4.mm.bing.net/th?id=OIP.kFGhIR76ntfQojyOr_9SJQHaGe&pid=Api&P=0&h=180",
+        "name": "Rahul",
+        "description": "wdd",
+        "date": "2023-09-09",
+        "location": "ujjain-Nagda",
+        "category": "tra",
+        "price": 123,
+        "id": 6
       }
     ]
   }
